@@ -20,6 +20,10 @@
 	cursor: pointer;
 }
 
+.navcontainer h1:hover{
+	color: white;
+}
+
 .Logres {
 	height: 7vh;
 	width: 12vw;

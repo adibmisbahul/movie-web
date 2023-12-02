@@ -1,7 +1,7 @@
 import "./navbar.css";
 import Image from "next/image";
 
-import Avatar from "../public/image/avatar.jpeg";
+import Avatar from "../src/app/image/avatar.jpeg";
 
 export default function Navbar() {
   return (
