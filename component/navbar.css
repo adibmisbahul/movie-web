@@ -1,0 +1,29 @@
+.navcontainer {
+	width: 100%;
+	height: 15vh;
+	background-color: #132047;
+	display: flex;
+	gap: 4vw;
+	align-items: center;
+	justify-content: end;
+	padding-right: 5vw;
+
+}
+
+.navimage {
+	border-radius: 100%;
+	margin-right: 25vw;
+}
+
+.navcontainer h1 {
+	color: #5c6376;
+	cursor: pointer;
+}
+
+.Logres {
+	height: 7vh;
+	width: 12vw;
+	border-radius: 2vw;
+	background-color: #f36271;
+
+}
