@@ -31,7 +31,7 @@ export default function Home() {
               <div className="wrapmovie2R text-black text-xs ml-10">
                 <h1>Genre</h1>
                 <p>Anime, Comedi</p>
-                <h1>sinonpsis</h1>
+                <h1>sinonpsiss</h1>
               </div>
             </div>
             <div className="wrapmovie3 text-black text-sm">
