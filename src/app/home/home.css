@@ -10,7 +10,7 @@
 	margin-top: 1vh;
 	width: 50vw;
 	height: 55vh;
-	display: flexs;
+	display: flex;
 	border-radius: 1vw;
 	background-color: white;
 	box-shadow: 5px 11px 17px -1px rgba(0, 0, 0, 0.51);
@@ -21,4 +21,23 @@
 .imagemovie {
 	border-radius: 1vw;
 	margin-top: -2vh;
+}
+
+.wrapmovieright{
+	width: 80%;
+	height: 55vh;
+}
+
+.wrapmovie2{
+	width: 90%;
+	height: 30vh;
+	margin-left: 1vw;
+	margin-top: 3vh;
+	display: flex;
+	border-top: 1px solid  #696969 ;
+	border-bottom: 1px solid  #696969 ;
+}
+
+.wrapmovie3{
+	display: flex;
 }
